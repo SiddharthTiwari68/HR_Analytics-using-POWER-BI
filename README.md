@@ -18,6 +18,7 @@ Benchmarking: Compare the organization’s performance with industry standards.
 The HR Analysis Dashboard offers valuable insights into the factors contributing to employee attrition and performance. By using this dashboard, HR teams can develop targeted strategies to reduce turnover and improve employee satisfaction.
 
 
+![HR Analyst_dashboard](https://github.com/user-attachments/assets/838785af-6f6f-46a0-8897-fbf7a5f82833)
 
 
 
